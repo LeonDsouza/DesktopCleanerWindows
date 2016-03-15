@@ -1,0 +1,130 @@
+
+
+ Running Instance Separator
+
+ Logged In As:Leon
+
+ Current Date And Time : 15-10-2015 16:03:18
+
+Main Window Title : WindowsFormsApplication1 - Microsoft Visual Studio
+
+Process Name : devenv
+
+Main Window Handle : 525120
+
+Private Memory Size in MB : 170.0859
+
+ Running Time : 
+00:17:14.3472361
+
+<----Log Entry Separator---->
+
+ Current Date And Time : 15-10-2015 16:03:18
+
+Main Window Title : {94F11419-869E-47aa-9563-F48591285CAD}
+
+Process Name : YCMMirage
+
+Main Window Handle : 131666
+
+Private Memory Size in MB : 1.648438
+
+ Running Time : 
+00:18:16.9966048
+
+<----Log Entry Separator---->
+
+ Current Date And Time : 15-10-2015 16:03:18
+
+Main Window Title : Form1
+
+Process Name : WindowsFormsApplication1
+
+Main Window Handle : 66682
+
+Private Memory Size in MB : 12.35547
+
+ Running Time : 
+00:01:15.2545322
+
+<----Log Entry Separator---->
+
+ Current Date And Time : 15-10-2015 16:03:18
+
+Main Window Title : Exp9 Leon - Word (Product Activation Failed)
+
+Process Name : WINWORD
+
+Main Window Handle : 197614
+
+Private Memory Size in MB : 161.0898
+
+ Running Time : 
+00:02:42.6399461
+
+<----Log Entry Separator---->
+
+
+ Running Instance Separator
+
+ Logged In As:Leon
+
+ Current Date And Time : 15-10-2015 16:07:05
+
+Main Window Title : Form1
+
+Process Name : WindowsFormsApplication1
+
+Main Window Handle : 394220
+
+Private Memory Size in MB : 14.98828
+
+ Running Time : 
+00:03:00.3675168
+
+<----Log Entry Separator---->
+
+ Current Date And Time : 15-10-2015 16:07:05
+
+Main Window Title : WindowsFormsApplication1 - Microsoft Visual Studio
+
+Process Name : devenv
+
+Main Window Handle : 525120
+
+Private Memory Size in MB : 169.7344
+
+ Running Time : 
+00:21:01.4212349
+
+<----Log Entry Separator---->
+
+ Current Date And Time : 15-10-2015 16:07:05
+
+Main Window Title : {94F11419-869E-47aa-9563-F48591285CAD}
+
+Process Name : YCMMirage
+
+Main Window Handle : 131666
+
+Private Memory Size in MB : 1.648438
+
+ Running Time : 
+00:22:04.0706036
+
+<----Log Entry Separator---->
+
+ Current Date And Time : 15-10-2015 16:07:05
+
+Main Window Title : Exp9 Leon - Word (Product Activation Failed)
+
+Process Name : WINWORD
+
+Main Window Handle : 197614
+
+Private Memory Size in MB : 161.9805
+
+ Running Time : 
+00:06:29.7139450
+
+<----Log Entry Separator---->
